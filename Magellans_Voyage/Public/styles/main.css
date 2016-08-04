@@ -1,0 +1,14 @@
+.content {
+  text-align: center;
+  color: white;
+  background: transparent;
+}
+
+.align-left {
+  text-align: left;
+  margin-top: 4em;
+}
+
+li {
+  list-style: none;
+}
